@@ -1,8 +1,4 @@
-# ZelisoMB.github.io
-copia img
-
-
-    <!DOCTYPE html>
+     <!DOCTYPE html>
     <html lang="en">
     
     <head>
